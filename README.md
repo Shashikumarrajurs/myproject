@@ -1,4 +1,3 @@
-# myproject
 # Project Overheat: Predictive Maintenance AI
 
 **AeroLogistics | Data Science Capstone Project**
